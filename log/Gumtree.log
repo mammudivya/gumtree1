@@ -1,0 +1,131 @@
+2017-09-24 10:34:47 [main] INFO  GumtreeAction:16 - Navigating to Google.com:https://www.google.co.uk/
+2017-09-24 10:34:49 [main] INFO  GumtreeAction:22 - GOOGLE SEARCH_PAGE : Enter the Text :Cars in London
+2017-09-24 10:34:51 [main] INFO  GumtreeAction:25 - GOOGLE SEARCH_PAGE : Click the Submit
+2017-09-24 10:40:22 [main] INFO  GumtreeAction:16 - Navigating to Google.com:https://www.google.co.uk/
+2017-09-24 10:40:24 [main] INFO  GumtreeAction:22 - GOOGLE SEARCH_PAGE : Enter the Text :Cars in London
+2017-09-24 10:40:25 [main] INFO  GumtreeAction:25 - GOOGLE SEARCH_PAGE : Click the Submit Button
+2017-09-24 10:40:25 [main] INFO  GumtreeAction:31 - GOOGLE SEARCH_PAGE : Total Search Results =9
+2017-09-24 10:40:25 [main] INFO  GumtreeAction:33 - -------------------------------------------------------
+2017-09-24 10:40:25 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.gumtree.com/cars/london
+2017-09-24 10:40:25 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.gumtree.com/cars/london/page2
+2017-09-24 10:40:26 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.gumtree.com/cars/london/cheap+cars
+2017-09-24 10:40:26 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.autotrader.co.uk/used-cars/uk/london
+2017-09-24 10:40:26 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.vcars.co.uk/used-cars/
+2017-09-24 10:40:26 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.motors.co.uk/used-cars/local/west-london/
+2017-09-24 10:40:26 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.motors.co.uk/used-cars/local/london/
+2017-09-24 10:40:26 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.cargiant.co.uk/
+2017-09-24 10:40:26 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.exchangeandmart.co.uk/local-used-cars/london
+2017-09-24 10:40:26 [main] INFO  GumtreeAction:40 - -------------------------------------------------------
+2017-09-24 10:40:35 [main] INFO  GumtreeAction:56 - GUMTREE Title :Used Cars for sale in London - Gumtree
+2017-09-24 12:44:06 [main] INFO  GumtreeAction:16 - Navigating to Google.com:https://www.google.co.uk/
+2017-09-24 12:44:08 [main] INFO  GumtreeAction:22 - GOOGLE SEARCH_PAGE : Enter the Text :Cars in London
+2017-09-24 12:44:10 [main] INFO  GumtreeAction:25 - GOOGLE SEARCH_PAGE : Click the Submit Button
+2017-09-24 12:44:10 [main] INFO  GumtreeAction:31 - GOOGLE SEARCH_PAGE : Total Search Results = 9
+2017-09-24 12:44:10 [main] INFO  GumtreeAction:33 - -------------------------------------------------------
+2017-09-24 12:44:10 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.gumtree.com/cars/london
+2017-09-24 12:44:10 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.gumtree.com/cars/london/page2
+2017-09-24 12:44:10 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.autotrader.co.uk/used-cars/uk/london
+2017-09-24 12:44:10 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.vcars.co.uk/used-cars/
+2017-09-24 12:44:10 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.motors.co.uk/used-cars/local/west-london/
+2017-09-24 12:44:10 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.motors.co.uk/used-cars/local/london/
+2017-09-24 12:44:10 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.cargiant.co.uk/
+2017-09-24 12:44:10 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.exchangeandmart.co.uk/local-used-cars/london
+2017-09-24 12:44:10 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.google.co.uk/search?q=Cars+in+London&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjKlP-t373WAhVCAsAKHd96CKQQsAQItgE
+2017-09-24 12:44:10 [main] INFO  GumtreeAction:40 - -------------------------------------------------------
+2017-09-24 12:44:28 [main] INFO  GumtreeAction:56 - GUMTREE Title :Used Cars for sale in London - Gumtree
+2017-09-24 12:46:52 [main] INFO  GumtreeAction:16 - Navigating to Google.com:https://www.google.co.uk/
+2017-09-24 12:46:54 [main] INFO  GumtreeAction:22 - GOOGLE SEARCH_PAGE : Enter the Text :Cars in London
+2017-09-24 12:46:57 [main] INFO  GumtreeAction:25 - GOOGLE SEARCH_PAGE : Click the Submit Button
+2017-09-24 12:46:57 [main] INFO  GumtreeAction:31 - GOOGLE SEARCH_PAGE : Total Search Results = 9
+2017-09-24 12:46:57 [main] INFO  GumtreeAction:33 - -------------------------------------------------------
+2017-09-24 12:46:57 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.gumtree.com/cars/london
+2017-09-24 12:46:57 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.gumtree.com/cars/london/page2
+2017-09-24 12:46:57 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.autotrader.co.uk/used-cars/uk/london
+2017-09-24 12:46:57 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.vcars.co.uk/used-cars/
+2017-09-24 12:46:57 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.motors.co.uk/used-cars/local/west-london/
+2017-09-24 12:46:57 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.motors.co.uk/used-cars/local/london/
+2017-09-24 12:46:57 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.cargiant.co.uk/
+2017-09-24 12:46:57 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.exchangeandmart.co.uk/local-used-cars/london
+2017-09-24 12:46:57 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.google.co.uk/search?q=Cars+in+London&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjN-Zb9373WAhXiL8AKHVwhBmIQsAQIwgE
+2017-09-24 12:46:57 [main] INFO  GumtreeAction:40 - -------------------------------------------------------
+2017-09-24 12:47:11 [main] INFO  GumtreeAction:56 - GUMTREE Title :Used Cars for sale in London - Gumtree
+2017-09-24 13:12:31 [main] INFO  GumtreeAction:16 - Navigating to Google.com:https://www.google.co.uk/
+2017-09-24 13:12:35 [main] INFO  GumtreeAction:22 - GOOGLE SEARCH_PAGE : Enter the Text :Cars in London
+2017-09-24 13:12:38 [main] INFO  GumtreeAction:25 - GOOGLE SEARCH_PAGE : Click the Submit Button
+2017-09-24 13:12:38 [main] INFO  GumtreeAction:31 - GOOGLE SEARCH_PAGE : Total Search Results = 9
+2017-09-24 13:12:38 [main] INFO  GumtreeAction:33 - -------------------------------------------------------
+2017-09-24 13:12:38 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.gumtree.com/cars/london
+2017-09-24 13:12:38 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.gumtree.com/cars/london/page2
+2017-09-24 13:12:38 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.autotrader.co.uk/used-cars/uk/london
+2017-09-24 13:12:38 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.vcars.co.uk/used-cars/
+2017-09-24 13:12:38 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.motors.co.uk/used-cars/local/west-london/
+2017-09-24 13:12:38 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.motors.co.uk/used-cars/local/london/
+2017-09-24 13:12:38 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.cargiant.co.uk/
+2017-09-24 13:12:38 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.exchangeandmart.co.uk/local-used-cars/london
+2017-09-24 13:12:38 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.google.co.uk/search?q=Cars+in+London&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiT0oDc5b3WAhUqAcAKHUxbBnYQsAQItQE
+2017-09-24 13:12:38 [main] INFO  GumtreeAction:40 - -------------------------------------------------------
+2017-09-24 13:12:54 [main] INFO  GumtreeAction:56 - GUMTREE Title :Used Cars for sale in London - Gumtree
+2017-09-24 13:14:57 [main] INFO  GumtreeAction:16 - Navigating to Google.com:https://www.google.co.uk/
+2017-09-24 13:14:59 [main] INFO  GumtreeAction:22 - GOOGLE SEARCH_PAGE : Enter the Text :Cars in London
+2017-09-24 13:15:02 [main] INFO  GumtreeAction:25 - GOOGLE SEARCH_PAGE : Click the Submit Button
+2017-09-24 13:15:02 [main] INFO  GumtreeAction:31 - GOOGLE SEARCH_PAGE : Total Search Results = 9
+2017-09-24 13:15:02 [main] INFO  GumtreeAction:33 - -------------------------------------------------------
+2017-09-24 13:15:02 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.gumtree.com/cars/london
+2017-09-24 13:15:02 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.gumtree.com/cars/london/page2
+2017-09-24 13:15:02 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.autotrader.co.uk/used-cars/uk/london
+2017-09-24 13:15:02 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.vcars.co.uk/used-cars/
+2017-09-24 13:15:02 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.motors.co.uk/used-cars/local/west-london/
+2017-09-24 13:15:02 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.motors.co.uk/used-cars/local/london/
+2017-09-24 13:15:02 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.cargiant.co.uk/
+2017-09-24 13:15:02 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.exchangeandmart.co.uk/local-used-cars/london
+2017-09-24 13:15:02 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.google.co.uk/search?q=Cars+in+London&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjSzLOg5r3WAhVMCMAKHQdAAqgQsAQItgE
+2017-09-24 13:15:02 [main] INFO  GumtreeAction:40 - -------------------------------------------------------
+2017-09-24 13:15:52 [main] INFO  GumtreeAction:56 - GUMTREE Title :Used Cars for sale in London - Gumtree
+2017-09-24 13:17:12 [main] INFO  GumtreeAction:16 - Navigating to Google.com:https://www.google.co.uk/
+2017-09-24 13:17:13 [main] INFO  GumtreeAction:22 - GOOGLE SEARCH_PAGE : Enter the Text :Cars in London
+2017-09-24 13:17:15 [main] INFO  GumtreeAction:25 - GOOGLE SEARCH_PAGE : Click the Submit Button
+2017-09-24 13:17:15 [main] INFO  GumtreeAction:31 - GOOGLE SEARCH_PAGE : Total Search Results = 9
+2017-09-24 13:17:15 [main] INFO  GumtreeAction:33 - -------------------------------------------------------
+2017-09-24 13:17:15 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.gumtree.com/cars/london
+2017-09-24 13:17:15 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.gumtree.com/cars/london/page2
+2017-09-24 13:17:15 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.autotrader.co.uk/used-cars/uk/london
+2017-09-24 13:17:15 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.vcars.co.uk/used-cars/
+2017-09-24 13:17:15 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.motors.co.uk/used-cars/local/west-london/
+2017-09-24 13:17:15 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.motors.co.uk/used-cars/local/london/
+2017-09-24 13:17:15 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.cargiant.co.uk/
+2017-09-24 13:17:15 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.exchangeandmart.co.uk/local-used-cars/london
+2017-09-24 13:17:15 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.google.co.uk/search?q=Cars+in+London&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj_2d7g5r3WAhWQOsAKHRzkAZgQsAQIwgE
+2017-09-24 13:17:15 [main] INFO  GumtreeAction:40 - -------------------------------------------------------
+2017-09-24 13:17:27 [main] INFO  GumtreeAction:56 - GUMTREE Title :Used Cars for sale in London - Gumtree
+2017-09-24 13:20:04 [main] INFO  GumtreeAction:16 - Navigating to Google.com:https://www.google.co.uk/
+2017-09-24 13:20:05 [main] INFO  GumtreeAction:22 - GOOGLE SEARCH_PAGE : Enter the Text :Cars in London
+2017-09-24 13:20:07 [main] INFO  GumtreeAction:25 - GOOGLE SEARCH_PAGE : Click the Submit Button
+2017-09-24 13:20:07 [main] INFO  GumtreeAction:31 - GOOGLE SEARCH_PAGE : Total Search Results = 9
+2017-09-24 13:20:07 [main] INFO  GumtreeAction:33 - -------------------------------------------------------
+2017-09-24 13:20:07 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.gumtree.com/cars/london
+2017-09-24 13:20:07 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.gumtree.com/cars/london/page2
+2017-09-24 13:20:07 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.autotrader.co.uk/used-cars/uk/london
+2017-09-24 13:20:07 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.vcars.co.uk/used-cars/
+2017-09-24 13:20:07 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.motors.co.uk/used-cars/local/west-london/
+2017-09-24 13:20:07 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.motors.co.uk/used-cars/local/london/
+2017-09-24 13:20:07 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.cargiant.co.uk/
+2017-09-24 13:20:07 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.exchangeandmart.co.uk/local-used-cars/london
+2017-09-24 13:20:07 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.google.co.uk/search?q=Cars+in+London&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwi0wNuy573WAhWiF8AKHUXIAW4QsAQIrgE
+2017-09-24 13:20:07 [main] INFO  GumtreeAction:40 - -------------------------------------------------------
+2017-09-24 13:20:28 [main] INFO  GumtreeAction:56 - GUMTREE Title :Used Cars for sale in London - Gumtree
+2017-09-24 13:37:37 [main] INFO  GumtreeAction:16 - Navigating to Google.com:https://www.google.co.uk/
+2017-09-24 13:37:40 [main] INFO  GumtreeAction:22 - GOOGLE SEARCH_PAGE : Enter the Text :Cars in London
+2017-09-24 13:37:42 [main] INFO  GumtreeAction:25 - GOOGLE SEARCH_PAGE : Click the Submit Button
+2017-09-24 13:37:42 [main] INFO  GumtreeAction:31 - GOOGLE SEARCH_PAGE : Total Search Results = 9
+2017-09-24 13:37:42 [main] INFO  GumtreeAction:33 - -------------------------------------------------------
+2017-09-24 13:37:42 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.gumtree.com/cars/london
+2017-09-24 13:37:42 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.gumtree.com/cars/london/page2
+2017-09-24 13:37:42 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.autotrader.co.uk/used-cars/uk/london
+2017-09-24 13:37:42 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.vcars.co.uk/used-cars/
+2017-09-24 13:37:42 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.motors.co.uk/used-cars/local/west-london/
+2017-09-24 13:37:42 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.motors.co.uk/used-cars/local/london/
+2017-09-24 13:37:42 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.cargiant.co.uk/
+2017-09-24 13:37:42 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :http://www.exchangeandmart.co.uk/local-used-cars/london
+2017-09-24 13:37:42 [main] INFO  GumtreeAction:38 - GOOGLE SEARCH_PAGE : Result Link :https://www.google.co.uk/search?q=Cars+in+London&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj8zq-p673WAhWeF8AKHdgHCuIQsAQItgE
+2017-09-24 13:37:42 [main] INFO  GumtreeAction:40 - -------------------------------------------------------
+2017-09-24 13:38:01 [main] INFO  GumtreeAction:56 - GUMTREE Title :Used Cars for sale in London - Gumtree
